@@ -1,4 +1,4 @@
-# Hi, I'm Raniya Habachi 👋
+# Hi, I'm Raniya Habachi
 
 Welcome to my GitHub! I'm a developer passionate about building meaningful projects.
 
